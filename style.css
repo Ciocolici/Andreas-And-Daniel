@@ -1,0 +1,93 @@
+
+/*NAVBAR*/
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #333;
+    overflow: hidden;
+}
+
+.nav-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.nav-item {
+    padding: 14px 20px;
+}
+
+.nav-item a {
+    color: white;
+    text-decoration: none;
+    display: block;
+}
+
+.nav-item a:hover {
+    background-color: #575757;
+}
+
+/*stack vertically 
+@media = CSS AT-Rule (a rule in CSS used to apply styles conditionally)
+enables you to apply CSS styles only when flex-direction = column*/
+@media screen and (max-width: 600px) {
+    .nav-list {
+        flex-direction: column;
+    }
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: #3a0202;
+    font-family: 'Kanit', Times, serif;
+    animation: fadeInAnimation 1s forwards;
+}
+
+@keyframes fadeInAnimation {
+    from {
+        opacity: 0; 
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+h2{
+    text-align: center;
+    font-size: 30px;
+    color: #6e0f17;
+    font-family: 'Playwrite NG Modern', Times, serif;
+    animation: fadeInAnimation 2s forwards; 
+}
+
+h3{
+    font-size: 25px;
+    font-family: 'Playwrite NG Modern', Times, serif;
+    animation: fadeInAnimation 3s forwards;
+}
+
+p{
+    font-size: 15px;
+    font-family: "Playwrite NG Modern", Times, serif;
+    animation: fadeInAnimation 3s forwards;
+}
+
+li{
+    font-size: 15px;
+    font-family: "Playwrite NG Modern", Times, serif;
+    animation: fadeInAnimation 3s forwards;
+}
+
+#programmerimage{
+    opacity: 0;
+    animation: fadeInAnimation 3s forwards;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+}
