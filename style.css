@@ -99,6 +99,7 @@ form {
     padding: 20px;
     border: 1px solid #ccc;
     border-radius: 5px;
+    animation: fadeInAnimation 3s forwards;
   }
 
   label {
@@ -133,4 +134,3 @@ form {
     background-color: #45a049;
   }
 
-  
