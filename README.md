@@ -1,4 +1,4 @@
-# AndreasAndDaniel
+# Andreas & Daniel
 A small exercise-project created in my Web Development internship, using only HTML and CSS.
 
 *You can access the website [here](https://ciocolici.github.io/AndreasAndDaniel/).*
