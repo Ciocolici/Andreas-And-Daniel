@@ -1,7 +1,7 @@
 # Andreas & Daniel
-A small exercise-project created in my Web Development internship, using only HTML and CSS.
+A small project created in my Web Development internship, using only HTML and CSS.
 
-*You can access the website [here](https://ciocolici.github.io/AndreasAndDaniel/).*
+*You can access the website [here](https://ciocolici.github.io/Andreas-And-Daniel/).*
 
 
 - [Icon source](https://pngtree.com/freepng/programmers-code-the-website-from-the-command-line-flat-vector-illustration_4157702.html)
