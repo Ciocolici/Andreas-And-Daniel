@@ -1,5 +1,5 @@
 # Andreas & Daniel
-A small project created in my Web Development internship, using only HTML and CSS.
+A small project created in my Web Development internship by Terrera AG / NBGTech, using only HTML and CSS.
 
 *You can access the website [here](https://ciocolici.github.io/Andreas-And-Daniel/).*
 
