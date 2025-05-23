@@ -1,5 +1,5 @@
 # Andreas & Daniel
-Welcome to Andreas & Daniel’s Digital Playground, a small project created by me in my Web Development internship by Terrera AG, using only HTML and CSS.
+Welcome to Andreas & Daniel’s Digital Playground: a small project created by me in my Web Development internship by Terrera AG, using only HTML and CSS.
 
 *You can access the website [here](https://ciocolici.github.io/Andreas-And-Daniel/).*
 
