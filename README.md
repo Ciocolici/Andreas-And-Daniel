@@ -3,6 +3,8 @@ Welcome to Andreas & Daniel’s Digital Playground: a small project, completed a
 
 *You can access the website [here](https://ciocolici.github.io/Andreas-And-Daniel/).*
 
+*Together with a collegue, this project-exercise has been fully updated later. You can find the newer version's repository [here](https://github.com/Ciocolici/Andreas-And-Daniel-FlexBox).*
+
 
 - 🎨[Icon source](https://pngtree.com/freepng/programmers-code-the-website-from-the-command-line-flat-vector-illustration_4157702.html)
 - 🎨[Home picture source](https://pngtree.com/freepng/programmers-code-the-website-from-the-command-line-flat-vector-illustration_4157702.html)
